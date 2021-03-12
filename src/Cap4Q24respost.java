@@ -23,6 +23,9 @@ public class Cap4Q24respost {
        double cincoporc=0.05;
        double tresporc=0.03;
        double oitoporc=0.08;
+       double variavelteste;
+       
+       
         
       JOptionPane.showMessageDialog(null, "Este programa vai calcular o valor do produto final, contando com as dispesas e os impostos", null, JOptionPane.INFORMATION_MESSAGE);
         
